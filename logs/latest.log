@@ -1,134 +1,108 @@
-[14:04:46] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[14:04:47] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[14:04:50] [Server-Worker-4/INFO]: Loaded 7 recipes
-[14:04:52] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[14:04:52] [Server thread/INFO]: Loading properties
-[14:04:54] [Server thread/INFO]: This server is running Paper version git-Paper-136 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
-[14:04:54] [Server thread/INFO]: Debug logging is disabled
-[14:04:54] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:04:54] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:04:54] [Server thread/INFO]: Default game type: SURVIVAL
-[14:04:54] [Server thread/INFO]: Generating keypair
-[14:04:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:04:54] [Server thread/INFO]: Using default channel type
-[14:04:56] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:04:56] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:04:56] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:04:56] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:04:56] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:04:56] [Server thread/INFO]: Preparing level "world"
-[14:04:56] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:04:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:04:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:04:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:04:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:04:56] [Server thread/INFO]: View Distance: 10
-[14:04:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:04:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:04:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:04:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:04:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:04:56] [Server thread/INFO]: Max TNT Explosions: 100
-[14:04:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:04:56] [Server thread/INFO]: Mob Spawn Range: 8
-[14:04:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:04:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:04:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[14:04:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:04:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:04:56] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:04:56] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:04:56] [Server thread/INFO]: View Distance: 10
-[14:04:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:04:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:04:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:04:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:04:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:04:56] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:04:56] [Server thread/INFO]: Max TNT Explosions: 100
-[14:04:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:04:56] [Server thread/INFO]: Mob Spawn Range: 8
-[14:04:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:04:56] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:04:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[14:04:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:04:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:04:57] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:04:57] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:04:57] [Server thread/INFO]: View Distance: 10
-[14:04:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:04:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:04:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:04:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:04:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:04:57] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:04:57] [Server thread/INFO]: Max TNT Explosions: 100
-[14:04:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:04:57] [Server thread/INFO]: Mob Spawn Range: 8
-[14:04:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:04:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:04:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:04:58] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[14:04:58] [Server thread/INFO]: Time elapsed: 1007 ms
-[14:04:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:04:58] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[14:04:58] [Server thread/INFO]: Time elapsed: 522 ms
-[14:04:58] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:04:58] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[14:04:58] [Server thread/INFO]: Time elapsed: 204 ms
-[14:04:59] [Server thread/INFO]: Running delayed init tasks
-[14:04:59] [Server thread/INFO]: Done (6.319s)! For help, type "help"
-[14:04:59] [Server thread/INFO]: Timings Reset
-[14:05:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
-[14:06:34] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
-[14:06:38] [Server thread/INFO]: dotunglamnd joined the game
-[14:06:38] [Server thread/INFO]: dotunglamnd[/127.0.0.1:49919] logged in with entity id 364 at ([world_nether]11.473957234120913, 67.0, -494.2105980746038)
-[14:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5380ms or 107 ticks behind
-[14:07:02] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
-[14:07:02] [Server thread/INFO]: dotunglamnd left the game
+[00:08:43] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[00:08:43] [Server thread/INFO]: No ? goay left the game
+[00:09:17] [User Authenticator #10/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[00:09:17] [Server thread/INFO]: No ? goay joined the game
+[00:09:17] [Server thread/INFO]: No ? goay[/127.0.0.1:51502] logged in with entity id 36776 at ([world]6.434949406422216, 65.0, 261.810903480168)
+[00:11:25] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[00:11:25] [Server thread/INFO]: Cashuto left the game
+[00:11:31] [User Authenticator #11/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[00:11:31] [Server thread/INFO]: Cashuto joined the game
+[00:11:31] [Server thread/INFO]: Cashuto[/14.226.229.199:60274] logged in with entity id 37720 at ([world]-1001.9420721691297, 79.0, -1612.2202519493544)
+[00:16:47] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[00:16:47] [Server thread/INFO]: Cashuto left the game
+[00:16:49] [User Authenticator #12/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[00:16:49] [Server thread/INFO]: Cashuto joined the game
+[00:16:49] [Server thread/INFO]: Cashuto[/14.226.229.199:18117] logged in with entity id 39375 at ([world]-863.0105763548974, 63.0, -1395.1511447607595)
+[00:27:08] [Server thread/INFO]: Villager EntityVillager['Villager'/37902, uuid='cc99f4fd-888f-4eee-b975-59f05f88400f', l='ServerLevel[world]', x=-944.66, y=65.00, z=-1370.70, cx=-60, cz=-86, tl=18281, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[00:27:53] [Server thread/INFO]: Villager EntityVillager['Villager'/37921, uuid='14d6e484-6ac1-4873-92d5-76003bd90a38', l='ServerLevel[world]', x=-955.47, y=67.00, z=-1389.54, cx=-60, cz=-87, tl=19105, v=true, d=false] died, message: 'Villager was impaled by Drowned'
+[00:32:59] [Async Chat Thread - #1/INFO]: <Cashuto> -900 -1400
+[00:35:19] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[00:35:19] [Server thread/INFO]: No ? goay left the game
+[00:35:45] [User Authenticator #13/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[00:35:45] [Server thread/INFO]: No ? goay joined the game
+[00:35:46] [Server thread/INFO]: No ? goay[/127.0.0.1:51700] logged in with entity id 46604 at ([world]-927.1913577597336, 64.0, -1188.5831601745986)
+[00:53:52] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[00:53:52] [Server thread/INFO]: No ? goay left the game
+[00:54:18] [User Authenticator #14/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[00:54:18] [Server thread/INFO]: No ? goay joined the game
+[00:54:18] [Server thread/INFO]: No ? goay[/127.0.0.1:51773] logged in with entity id 49696 at ([world]-880.0368441260285, 66.0, -1358.699999988079)
+[01:28:03] [Server thread/INFO]: No ? goay was killed by Witch using magic
+[01:28:26] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[01:28:26] [Server thread/INFO]: Cashuto left the game
+[01:28:30] [User Authenticator #15/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[01:28:31] [Server thread/INFO]: Cashuto joined the game
+[01:28:31] [Server thread/INFO]: Cashuto[/14.226.229.199:60354] logged in with entity id 70957 at ([world]-1549.2775474884556, 62.52326524157723, -17.327072852194)
+[01:39:51] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[01:39:51] [Server thread/INFO]: Cashuto left the game
+[01:39:53] [User Authenticator #16/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[01:39:53] [Server thread/INFO]: Cashuto joined the game
+[01:39:53] [Server thread/INFO]: Cashuto[/14.226.229.199:60364] logged in with entity id 79503 at ([world]-765.7366933528303, 84.0, -0.656800903006541)
+[01:52:02] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[01:52:02] [Server thread/INFO]: No ? goay left the game
+[01:52:07] [User Authenticator #17/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[01:52:07] [Server thread/INFO]: No ? goay joined the game
+[01:52:07] [Server thread/INFO]: No ? goay[/127.0.0.1:51832] logged in with entity id 84109 at ([world]-689.3076615158486, 62.523265114509186, -1003.802751375855)
+[02:39:43] [Server thread/WARN]: No ? goay was kicked for floating too long!
+[02:39:43] [Server thread/INFO]: No ? goay lost connection: Flying is not enabled on this server
+[02:39:43] [Server thread/INFO]: No ? goay left the game
+[02:39:55] [User Authenticator #18/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[02:39:55] [Server thread/INFO]: No ? goay joined the game
+[02:39:55] [Server thread/INFO]: No ? goay[/127.0.0.1:51880] logged in with entity id 97081 at ([world]15.456460789039472, 65.0, 237.93147036290696)
+[02:53:45] [Async Chat Thread - #2/INFO]: <Cashuto> out di
+[02:53:47] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[02:53:47] [Server thread/INFO]: No ? goay left the game
+[02:53:51] [User Authenticator #19/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[02:53:51] [Server thread/INFO]: No ? goay joined the game
+[02:53:51] [Server thread/INFO]: No ? goay[/127.0.0.1:51905] logged in with entity id 99309 at ([world]-17.470056776048235, 11.0, 354.8628613519928)
+[02:53:59] [Async Chat Thread - #2/INFO]: <Cashuto> roi
+[03:20:11] [Server thread/INFO]: No ? goay was shot by Skeleton
+[03:27:17] [Async Chat Thread - #3/INFO]: <Cashuto> dia nguc
+[03:36:24] [Server thread/INFO]: No ? goay was slain by Wolf
+[03:52:06] [Server thread/INFO]: Cashuto has completed the challenge [Hot Tourist Destinations]
+[03:56:57] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[03:56:57] [Server thread/INFO]: No ? goay left the game
+[03:57:21] [User Authenticator #20/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[03:57:21] [Server thread/INFO]: No ? goay joined the game
+[03:57:21] [Server thread/INFO]: No ? goay[/127.0.0.1:52536] logged in with entity id 112073 at ([world]5.50449872495453, 65.0, 264.0170896388156)
+[04:12:41] [Async Chat Thread - #4/INFO]: <Cashuto> mai ko di lam ak
+[04:14:57] [Async Chat Thread - #5/INFO]: <Cashuto> m dang o dau
+[04:16:35] [Async Chat Thread - #6/INFO]: <No ? goay> -500 -660
+[04:18:40] [Async Chat Thread - #7/INFO]: <Cashuto> dang toi
+[04:27:44] [Async Chat Thread - #8/INFO]: <No ? goay> tw
+[04:34:37] [Async Chat Thread - #9/INFO]: <Cashuto> toan quai
+[04:37:11] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[04:37:11] [Server thread/INFO]: Cashuto left the game
+[04:37:13] [User Authenticator #21/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[04:37:13] [Server thread/INFO]: Cashuto joined the game
+[04:37:13] [Server thread/INFO]: Cashuto[/14.226.229.199:60528] logged in with entity id 128940 at ([world]-530.0154399383432, 28.0, -694.840929526188)
+[04:37:24] [Server thread/INFO]: Villager EntityVillager['Villager'/127955, uuid='834295a8-25c6-49d8-b710-737278b14430', l='ServerLevel[world]', x=194.55, y=66.00, z=-1434.52, cx=12, cz=-90, tl=7091, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[04:37:33] [Async Chat Thread - #10/INFO]: <Cashuto> tin
+[04:38:48] [Server thread/INFO]: Villager EntityVillager['Farmer'/127759, uuid='05bcbd57-5332-4c5e-aa3d-d425006d0d98', l='ServerLevel[world]', x=178.98, y=66.00, z=-1398.59, cx=11, cz=-88, tl=9444, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[04:39:24] [Server thread/INFO]: Villager EntityVillager['Villager'/127799, uuid='ba3e931d-f8c0-482c-bf29-2eacb957e08a', l='ServerLevel[world]', x=198.74, y=66.80, z=-1402.39, cx=12, cz=-88, tl=9936, v=true, d=false] died, message: 'Villager was slain by Zombie'
+[04:41:48] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[04:41:48] [Server thread/INFO]: Cashuto left the game
+[04:43:04] [User Authenticator #22/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[04:43:04] [Server thread/INFO]: Cashuto joined the game
+[04:43:04] [Server thread/INFO]: Cashuto[/14.226.229.199:60532] logged in with entity id 130928 at ([world]-524.6319846600231, 23.0, -686.560573168204)
+[04:54:05] [Async Chat Thread - #11/INFO]: <Cashuto> m dang dau vay
+[04:54:13] [Async Chat Thread - #11/INFO]: <Cashuto> t lac roi
+[04:54:27] [Server thread/INFO]: No ? goay was slain by Zombie
+[05:14:42] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[05:14:42] [Server thread/INFO]: Cashuto left the game
+[07:03:01] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[07:03:01] [Server thread/INFO]: No ? goay left the game
+[07:03:50] [Server thread/INFO]: Stopping server
+[07:03:50] [Server thread/INFO]: Saving players
+[07:03:51] [Server thread/INFO]: Saving worlds
+[07:03:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:03:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:03:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:03:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:03:51] [Server thread/INFO]: Flushing Chunk IO
+[07:03:51] [Server thread/INFO]: Closing Thread Pool
+[07:03:51] [Server thread/INFO]: Closing Server
