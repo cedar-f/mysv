@@ -1,0 +1,139 @@
+[22:44:34] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:44:35] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:44:36] [Server-Worker-4/INFO]: Loaded 7 recipes
+[22:44:41] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:44:41] [main/FATAL]: Failed to start the minecraft server
+java.io.IOException: The process cannot access the file because another process has locked a portion of the file
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_261]
+	at sun.nio.ch.FileDispatcherImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.FileChannelImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.server.v1_16_R1.SessionLock.a(SourceFile:40) ~[Paper-1.16.1-latest.jar:git-Paper-136]
+	at net.minecraft.server.v1_16_R1.Convertable$ConversionSession.<init>(Convertable.java:198) ~[Paper-1.16.1-latest.jar:git-Paper-136]
+	at net.minecraft.server.v1_16_R1.Convertable.c(Convertable.java:180) ~[Paper-1.16.1-latest.jar:git-Paper-136]
+	at net.minecraft.server.v1_16_R1.Main.main(Main.java:113) ~[Paper-1.16.1-latest.jar:git-Paper-136]
+	at org.bukkit.craftbukkit.Main.main(Main.java:276) ~[Paper-1.16.1-latest.jar:git-Paper-136]
+line-mode" to "true" in the server.properties file.
+[22:44:39] [Server thread/INFO]: Preparing level "world"
+[22:44:39] [Server thread/INFO]: -------- World Settings For [world] --------
+[22:44:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:44:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:44:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:44:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:44:39] [Server thread/INFO]: View Distance: 10
+[22:44:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:44:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:44:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:44:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:44:39] [Server thread/INFO]: Mob Spawn Range: 8
+[22:44:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:44:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:44:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:44:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:44:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:44:39] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[22:44:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:44:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:44:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:44:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:44:39] [Server thread/INFO]: View Distance: 10
+[22:44:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:44:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:44:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:44:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:44:39] [Server thread/INFO]: Mob Spawn Range: 8
+[22:44:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:44:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:44:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:44:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:44:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:44:39] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[22:44:39] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[22:44:39] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[22:44:39] [Server thread/INFO]: Item Merge Radius: 2.5
+[22:44:39] [Server thread/INFO]: Item Despawn Rate: 6000
+[22:44:39] [Server thread/INFO]: View Distance: 10
+[22:44:39] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[22:44:39] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[22:44:39] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[22:44:39] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[22:44:39] [Server thread/INFO]: Mob Spawn Range: 8
+[22:44:39] [Server thread/INFO]: Experience Merge Radius: 3.0
+[22:44:39] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cane Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Melon Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Potato Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Vine Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[22:44:39] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[22:44:39] [Server thread/INFO]: Max TNT Explosions: 100
+[22:44:39] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[22:44:39] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[22:44:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:44:40] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[22:44:40] [Server thread/INFO]: Time elapsed: 699 ms
+[22:44:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:44:40] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[22:44:40] [Server thread/INFO]: Time elapsed: 244 ms
+[22:44:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:44:40] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[22:44:40] [Server thread/INFO]: Time elapsed: 30 ms
+[22:44:40] [Server thread/INFO]: Running delayed init tasks
+[22:44:40] [Server thread/INFO]: Done (3.005s)! For help, type "help"
+[22:44:40] [Server thread/INFO]: Timings Reset
+[22:47:24] [User Authenticator #1/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[22:47:25] [Server thread/INFO]: No ? goay joined the game
+[22:47:25] [Server thread/INFO]: No ? goay[/127.0.0.1:49852] logged in with entity id 673 at ([world]7.689420615632779, 64.5, 256.10039544071304)
+[22:54:06] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[22:54:06] [Server thread/INFO]: No ? goay left the game
+[22:54:40] [User Authenticator #2/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[22:54:40] [Server thread/INFO]: No ? goay joined the game
+[22:54:40] [Server thread/INFO]: No ? goay[/127.0.0.1:49875] logged in with entity id 1673 at ([world]35.994301205011496, 64.0, 219.15507607281978)
+[22:54:42] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[22:54:42] [Server thread/INFO]: No ? goay left the game
+[22:55:20] [User Authenticator #2/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[22:55:20] [Server thread/INFO]: No ? goay joined the game
+[22:55:20] [Server thread/INFO]: No ? goay[/127.0.0.1:49880] logged in with entity id 1681 at ([world]35.994301205011496, 64.0, 219.15507607281978)
