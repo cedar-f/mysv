@@ -13,6 +13,7 @@
 verbose: false
 config-version: 20
 settings:
+  max-joins-per-tick: 3
   bungee-online-mode: true
   save-player-data: true
   enable-player-collisions: true
@@ -31,6 +32,7 @@ settings:
     online-mode: false
     secret: ''
   unsupported-settings:
+    allow-headless-pistons: false
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
     allow-permanent-block-break-exploits-readme: This setting controls if players
@@ -39,6 +41,8 @@ settings:
     allow-piston-duplication-readme: This setting controls if player should be able
       to use TNT duplication, but this also allows duplicating carpet, rails and potentially
       other items
+    allow-headless-pistons-readme: This setting controls if players should be able
+      to create headless pistons.
   async-chunks:
     threads: -1
   book-size:
