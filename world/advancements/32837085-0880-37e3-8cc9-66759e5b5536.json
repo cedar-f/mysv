@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-08-28 03:50:29 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-08-20 01:52:02 +0700"
@@ -218,6 +224,12 @@
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2020-08-21 02:05:25 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2020-08-28 04:19:42 +0700"
     },
     "done": true
   },
@@ -2309,6 +2321,7 @@
       "pumpkin_pie": "2020-08-20 17:17:59 +0700",
       "bread": "2020-08-20 02:38:17 +0700",
       "rotten_flesh": "2020-08-20 01:07:06 +0700",
+      "melon_slice": "2020-08-28 04:46:38 +0700",
       "beetroot": "2020-08-23 04:13:24 +0700",
       "cooked_rabbit": "2020-08-22 02:51:00 +0700",
       "cooked_chicken": "2020-08-20 15:29:30 +0700",
@@ -2845,6 +2858,12 @@
   "minecraft:husbandry/safely_harvest_honey": {
     "criteria": {
       "safely_harvest_honey": "2020-08-22 01:00:00 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-08-28 03:54:56 +0700"
     },
     "done": true
   },
@@ -3802,5 +3821,5 @@
     },
     "done": true
   },
-  "DataVersion": 2567
+  "DataVersion": 2578
 }
