@@ -784,6 +784,7 @@
       "minecraft:husk": "2020-08-24 00:18:24 +0700",
       "minecraft:cave_spider": "2020-08-22 00:21:01 +0700",
       "minecraft:enderman": "2020-08-20 22:07:43 +0700",
+      "minecraft:silverfish": "2020-08-29 21:17:09 +0700",
       "minecraft:vex": "2020-08-28 01:01:26 +0700",
       "minecraft:zombie": "2020-08-20 16:09:02 +0700",
       "minecraft:drowned": "2020-08-23 21:27:40 +0700",
@@ -1028,6 +1029,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2020-08-22 03:04:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-08-29 21:16:34 +0700"
     },
     "done": true
   },
@@ -2636,6 +2643,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:pig": "2020-08-29 15:46:01 +0700",
       "minecraft:sheep": "2020-08-20 01:52:41 +0700",
       "minecraft:cow": "2020-08-20 21:41:57 +0700",
       "minecraft:chicken": "2020-08-20 00:53:52 +0700"
@@ -3641,6 +3649,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2020-08-20 23:30:58 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2020-08-29 15:34:34 +0700"
     },
     "done": true
   },

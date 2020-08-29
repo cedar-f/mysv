@@ -1557,6 +1557,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2020-08-29 22:52:19 +0700",
       "cooked_mutton": "2020-08-29 00:57:51 +0700",
       "sweet_berries": "2020-08-25 02:34:39 +0700",
       "cooked_beef": "2020-08-28 14:35:44 +0700",
