@@ -1,0 +1,13 @@
+[22:43:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:43:09] [main/FATAL]: Failed to start the minecraft server
+java.io.IOException: The process cannot access the file because another process has locked a portion of the file
+	at sun.nio.ch.FileDispatcherImpl.write0(Native Method) ~[?:1.8.0_261]
+	at sun.nio.ch.FileDispatcherImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.writeFromNativeBuffer(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.IOUtil.write(Unknown Source) ~[?:1.8.0_261]
+	at sun.nio.ch.FileChannelImpl.write(Unknown Source) ~[?:1.8.0_261]
+	at net.minecraft.server.v1_16_R2.SessionLock.a(SourceFile:40) ~[Paper-1.16.2-b147.jar:git-Paper-147]
+	at net.minecraft.server.v1_16_R2.Convertable$ConversionSession.<init>(Convertable.java:218) ~[Paper-1.16.2-b147.jar:git-Paper-147]
+	at net.minecraft.server.v1_16_R2.Convertable.c(Convertable.java:200) ~[Paper-1.16.2-b147.jar:git-Paper-147]
+	at net.minecraft.server.v1_16_R2.Main.main(Main.java:114) ~[Paper-1.16.2-b147.jar:git-Paper-147]
+	at org.bukkit.craftbukkit.Main.main(Main.java:276) ~[Paper-1.16.2-b147.jar:git-Paper-147]
