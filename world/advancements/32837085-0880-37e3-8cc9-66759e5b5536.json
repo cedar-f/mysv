@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2020-09-03 23:48:26 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2020-08-20 17:56:57 +0700"
@@ -800,10 +806,12 @@
       "minecraft:ghast": "2020-08-21 00:53:13 +0700",
       "minecraft:hoglin": "2020-09-02 03:15:01 +0700",
       "minecraft:guardian": "2020-08-22 02:24:49 +0700",
+      "minecraft:vindicator": "2020-09-04 00:34:11 +0700",
       "minecraft:magma_cube": "2020-08-23 03:48:31 +0700",
       "minecraft:spider": "2020-08-20 02:51:58 +0700",
       "minecraft:creeper": "2020-08-20 01:10:48 +0700",
       "minecraft:slime": "2020-08-20 02:53:33 +0700",
+      "minecraft:evoker": "2020-09-04 00:48:13 +0700",
       "minecraft:phantom": "2020-08-30 04:56:12 +0700",
       "minecraft:zombified_piglin": "2020-08-24 03:21:28 +0700",
       "minecraft:witch": "2020-08-24 05:46:20 +0700",
@@ -1140,6 +1148,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2020-08-21 01:05:30 +0700"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2020-09-04 04:37:40 +0700"
     },
     "done": true
   },
@@ -1512,6 +1526,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-08-20 01:18:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2020-09-04 00:52:32 +0700"
     },
     "done": true
   },
@@ -2329,6 +2349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-09-04 04:38:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2020-08-20 17:51:22 +0700"
@@ -2468,6 +2494,7 @@
       "beetroot_soup": "2020-08-21 02:28:07 +0700",
       "apple": "2020-08-20 01:05:49 +0700",
       "cooked_cod": "2020-08-22 04:25:43 +0700",
+      "poisonous_potato": "2020-09-04 03:28:17 +0700",
       "pumpkin_pie": "2020-08-20 17:17:59 +0700",
       "pufferfish": "2020-08-29 00:56:48 +0700",
       "bread": "2020-08-20 02:38:17 +0700",
@@ -3057,6 +3084,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2020-09-04 00:46:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-08-25 05:28:24 +0700"
@@ -3354,6 +3387,18 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-08-29 02:51:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-09-04 04:38:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-09-04 04:38:32 +0700"
     },
     "done": true
   },
@@ -3849,6 +3894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-09-04 04:38:32 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-08-20 01:18:27 +0700"
@@ -3906,6 +3957,18 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-20 01:16:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2020-09-04 04:37:40 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-09-04 04:38:32 +0700"
     },
     "done": true
   },
