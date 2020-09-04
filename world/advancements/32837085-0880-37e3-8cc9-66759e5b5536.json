@@ -1607,6 +1607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2020-09-04 15:03:46 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-08-20 01:16:26 +0700"
@@ -2537,6 +2543,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2020-08-20 01:18:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2020-09-04 15:03:46 +0700"
     },
     "done": true
   },
@@ -3507,6 +3519,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2020-08-20 00:36:36 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2020-09-04 14:59:17 +0700"
     },
     "done": true
   },
