@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2020-09-05 23:27:27 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2020-08-23 23:58:44 +0700"
@@ -476,6 +482,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-08-23 23:54:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2020-09-05 23:27:27 +0700"
     },
     "done": true
   },
@@ -1120,13 +1132,19 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2020-09-04 23:39:55 +0700",
       "minecraft:forest": "2020-08-24 00:16:24 +0700",
       "minecraft:mountains": "2020-08-27 01:42:55 +0700",
       "minecraft:taiga": "2020-08-27 01:19:21 +0700",
+      "minecraft:deep_cold_ocean": "2020-09-04 23:39:45 +0700",
       "minecraft:taiga_hills": "2020-08-27 01:20:34 +0700",
+      "minecraft:deep_frozen_ocean": "2020-09-04 23:42:59 +0700",
       "minecraft:birch_forest": "2020-08-25 01:43:00 +0700",
+      "minecraft:deep_lukewarm_ocean": "2020-09-04 23:36:23 +0700",
+      "minecraft:beach": "2020-09-04 23:26:37 +0700",
       "minecraft:dark_forest": "2020-08-23 23:46:24 +0700",
       "minecraft:river": "2020-08-24 00:16:08 +0700",
+      "minecraft:lukewarm_ocean": "2020-09-04 23:26:39 +0700",
       "minecraft:birch_forest_hills": "2020-08-25 01:42:16 +0700",
       "minecraft:wooded_hills": "2020-08-27 01:31:16 +0700",
       "minecraft:swamp": "2020-08-24 02:11:29 +0700",
@@ -1269,6 +1287,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2020-08-28 23:27:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-09-05 23:27:27 +0700"
     },
     "done": true
   },
@@ -1676,6 +1700,7 @@
       "pumpkin_pie": "2020-08-27 00:01:19 +0700",
       "pufferfish": "2020-08-26 01:43:32 +0700",
       "bread": "2020-08-27 02:33:25 +0700",
+      "cookie": "2020-09-06 00:11:48 +0700",
       "melon_slice": "2020-08-26 01:04:28 +0700",
       "cooked_rabbit": "2020-08-28 17:31:37 +0700",
       "cooked_chicken": "2020-08-26 00:41:35 +0700"
@@ -2487,6 +2512,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2020-08-24 23:35:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2020-09-05 00:34:48 +0700"
     },
     "done": true
   },
