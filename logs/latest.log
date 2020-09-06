@@ -1,132 +1,218 @@
-[16:28:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[16:28:49] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:28:50] [Server-Worker-4/INFO]: Loaded 7 recipes
-[16:28:56] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[16:28:56] [Server thread/INFO]: Loading properties
-[16:28:56] [Server thread/INFO]: This server is running Paper version git-Paper-147 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
-[16:28:56] [Server thread/INFO]: Debug logging is disabled
-[16:28:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:28:56] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:28:56] [Server thread/INFO]: Default game type: SURVIVAL
-[16:28:56] [Server thread/INFO]: Generating keypair
-[16:28:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:28:56] [Server thread/INFO]: Using default channel type
-[16:28:57] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:28:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:28:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:28:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:28:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:28:57] [Server thread/INFO]: Preparing level "world"
-[16:28:57] [Server thread/INFO]: -------- World Settings For [world] --------
-[16:28:57] [Server thread/INFO]: Mob Spawn Range: 8
-[16:28:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:28:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:28:57] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:28:57] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:28:57] [Server thread/INFO]: View Distance: 10
-[16:28:57] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:28:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:28:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[16:28:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:28:57] [Server thread/INFO]: Max TNT Explosions: 100
-[16:28:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:28:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:28:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:28:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:28:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:28:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[16:28:58] [Server thread/INFO]: Mob Spawn Range: 8
-[16:28:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:28:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:28:58] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:28:58] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:28:58] [Server thread/INFO]: View Distance: 10
-[16:28:58] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:28:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[16:28:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:28:58] [Server thread/INFO]: Max TNT Explosions: 100
-[16:28:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:28:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:28:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:28:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:28:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:28:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[16:28:58] [Server thread/INFO]: Mob Spawn Range: 8
-[16:28:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[16:28:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[16:28:58] [Server thread/INFO]: Item Despawn Rate: 6000
-[16:28:58] [Server thread/INFO]: Item Merge Radius: 2.5
-[16:28:58] [Server thread/INFO]: View Distance: 10
-[16:28:58] [Server thread/INFO]: Experience Merge Radius: 3.0
-[16:28:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Cane Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Melon Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Potato Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Vine Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[16:28:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[16:28:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[16:28:58] [Server thread/INFO]: Max TNT Explosions: 100
-[16:28:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[16:28:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[16:28:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[16:28:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[16:28:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[16:28:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:28:59] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[16:28:59] [Server thread/INFO]: Time elapsed: 951 ms
-[16:28:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:28:59] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[16:28:59] [Server thread/INFO]: Time elapsed: 146 ms
-[16:28:59] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:28:59] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[16:28:59] [Server thread/INFO]: Time elapsed: 270 ms
-[16:28:59] [Server thread/INFO]: Running delayed init tasks
-[16:28:59] [Server thread/INFO]: Done (3.442s)! For help, type "help"
-[16:28:59] [Server thread/INFO]: Timings Reset
-[16:30:30] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
-[16:30:30] [Server thread/INFO]: dotunglamnd joined the game
-[16:30:31] [Server thread/INFO]: dotunglamnd[/127.0.0.1:57998] logged in with entity id 841 at ([world]4.65232175105502, 70.0625, 254.4749318816671)
-[16:34:35] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
-[16:34:35] [Server thread/INFO]: dotunglamnd left the game
+[00:00:54] [Async Chat Thread - #5/INFO]: <dotunglamnd> giap t
+[00:01:00] [Server thread/INFO]: dotunglamnd was shot by No ? goay
+[00:01:07] [Async Chat Thread - #5/INFO]: <dotunglamnd> cai lon ma may`
+[00:01:12] [Async Chat Thread - #5/INFO]: <dotunglamnd> dumamay
+[00:01:17] [Async Chat Thread - #5/INFO]: <dotunglamnd> t quay lai hang rong r
+[00:01:23] [Async Chat Thread - #5/INFO]: <dotunglamnd> dit con me may
+[00:01:58] [Server thread/INFO]: dotunglamnd drowned
+[00:02:12] [Async Chat Thread - #5/INFO]: <dotunglamnd> w
+[00:03:02] [Server thread/INFO]: No ? goay was slain by dotunglamnd
+[00:03:57] [Server thread/INFO]: No ? goay drowned
+[00:04:57] [Server thread/INFO]: No ? goay burned to death
+[00:05:00] [Async Chat Thread - #6/INFO]: <dotunglamnd> :v
+[00:05:19] [Async Chat Thread - #6/INFO]: <dotunglamnd> clgt
+[00:05:31] [Async Chat Thread - #6/INFO]: <dotunglamnd> cung nao ba
+[00:05:45] [Async Chat Thread - #6/INFO]: <dotunglamnd> nay t \vut het ra ma`
+[00:05:47] [Async Chat Thread - #6/INFO]: <Cashuto> t cam
+[00:06:11] [Async Chat Thread - #6/INFO]: <dotunglamnd> cai dit
+[00:08:11] [Server thread/INFO]: lucbeo was burnt to a crisp whilst fighting dotunglamnd
+[00:08:14] [Async Chat Thread - #7/INFO]: <dotunglamnd> vcl
+[00:09:28] [Server thread/INFO]: lucbeo was slain by dotunglamnd
+[00:09:36] [Async Chat Thread - #8/INFO]: <dotunglamnd> ket cl
+[00:09:46] [Async Chat Thread - #8/INFO]: <dotunglamnd> danh riu` la counter cai khien
+[00:10:35] [Async Chat Thread - #8/INFO]: <dotunglamnd> m danh riu`trung vao` khien la cai khien ko dung dc trong vai giay a
+[00:10:58] [Async Chat Thread - #8/INFO]: <Cashuto> danhko Thang
+[00:11:14] [Async Chat Thread - #8/INFO]: <Cashuto> tat ca cac vu khi
+[00:11:47] [Async Chat Thread - #8/INFO]: <dotunglamnd> vcl
+[00:11:52] [Async Chat Thread - #8/INFO]: <dotunglamnd> banh quy an ko ngon
+[00:12:09] [Server thread/INFO]: lucbeo lost connection: Disconnected
+[00:12:09] [Server thread/INFO]: lucbeo left the game
+[00:13:03] [Async Chat Thread - #9/INFO]: <Cashuto> m len cai nhay
+[00:13:46] [Async Chat Thread - #9/INFO]: <Cashuto> vo
+[00:15:17] [Server thread/INFO]: No ? goay was slain by Cashuto
+[00:15:34] [User Authenticator #3/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
+[00:15:34] [Server thread/INFO]: lucbeo joined the game
+[00:15:34] [Server thread/INFO]: lucbeo[/27.71.109.42:9455] logged in with entity id 13556 at ([world]4.909372592700849, 65.875, 251.09235220478772)
+[00:15:40] [Async Chat Thread - #10/INFO]: <dotunglamnd> choi chanh ey
+[00:16:00] [Server thread/INFO]: dotunglamnd was slain by Cashuto
+[00:16:06] [Async Chat Thread - #10/INFO]: <dotunglamnd> m
+[00:16:08] [Async Chat Thread - #10/INFO]: <dotunglamnd> dang chat
+[00:16:21] [Async Chat Thread - #10/INFO]: <Cashuto> ra day
+[00:17:11] [Async Chat Thread - #10/INFO]: <dotunglamnd> kiem dau
+[00:18:53] [Server thread/INFO]: dotunglamnd was shot by Cashuto
+[00:19:00] [Async Chat Thread - #11/INFO]: <dotunglamnd> :v
+[00:19:12] [Async Chat Thread - #11/INFO]: <Cashuto> tat ca vu khi ma
+[00:19:17] [Async Chat Thread - #11/INFO]: <Cashuto> choi ko
+[00:19:45] [Server thread/INFO]: lucbeo was burnt to a crisp whilst fighting No ? goay
+[00:20:36] [Server thread/INFO]: lucbeo was slain by Cashuto
+[00:20:45] [Server thread/INFO]: Cashuto fell from a high place
+[00:20:50] [Server thread/INFO]: dotunglamnd has made the advancement [Ol' Betsy]
+[00:20:54] [Async Chat Thread - #12/INFO]: <dotunglamnd> non t dau
+[00:20:55] [Server thread/INFO]: lucbeo has made the advancement [Spooky Scary Skeleton]
+[00:21:06] [Async Chat Thread - #12/INFO]: <Cashuto> lol Lam
+[00:21:36] [Async Chat Thread - #12/INFO]: <dotunglamnd> ha
+[00:21:49] [Async Chat Thread - #12/INFO]: <dotunglamnd> do cua m luc
+[00:22:03] [Async Chat Thread - #12/INFO]: <dotunglamnd> t pakour
+[00:22:23] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:22:59] [Async Chat Thread - #12/INFO]: <dotunglamnd> e
+[00:23:03] [Async Chat Thread - #12/INFO]: <dotunglamnd> t co tro` moi
+[00:23:29] [Async Chat Thread - #12/INFO]: <dotunglamnd> uk
+[00:23:54] [Server thread/INFO]: lucbeo fell from a high place
+[00:24:12] [Async Chat Thread - #12/INFO]: <dotunglamnd> toi noi ha
+[00:24:28] [Server thread/INFO]: No ? goay fell from a high place
+[00:24:34] [Async Chat Thread - #12/INFO]: <dotunglamnd> dc thang oi
+[00:24:54] [Async Chat Thread - #12/INFO]: <Cashuto> dung nhay
+[00:25:34] [Async Chat Thread - #12/INFO]: <dotunglamnd> m nhay gan xuong dat xong m dat nc xuong a
+[00:26:00] [Server thread/INFO]: Cashuto fell from a high place
+[00:26:18] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:26:38] [Async Chat Thread - #13/INFO]: <dotunglamnd> dc ma`
+[00:26:41] [Async Chat Thread - #13/INFO]: <dotunglamnd> t nhay dc r
+[00:26:46] [Async Chat Thread - #13/INFO]: <dotunglamnd> t tap cai khac
+[00:26:47] [Server thread/INFO]: Cashuto fell from a high place
+[00:27:15] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:27:23] [Server thread/INFO]: No ? goay was slain by Zombie
+[00:27:25] [Async Chat Thread - #13/INFO]: <dotunglamnd> kho vc
+[00:27:39] [Async Chat Thread - #13/INFO]: <dotunglamnd> t nhay kieu khac
+[00:27:49] [Async Chat Thread - #13/INFO]: <Cashuto> cung cua t
+[00:28:02] [Server thread/INFO]: lucbeo was shot by Cashuto
+[00:28:10] [Async Chat Thread - #13/INFO]: <Cashuto> tich thu
+[00:28:28] [Async Chat Thread - #13/INFO]: <dotunglamnd> giong the nay nay thang
+[00:28:34] [Async Chat Thread - #13/INFO]: <Cashuto> cay cung t manh bang Thang ma
+[00:28:45] [Async Chat Thread - #13/INFO]: <dotunglamnd> m nhay tu tren kia xuong co
+[00:29:00] [Async Chat Thread - #13/INFO]: <Cashuto> cung t manh vl ra
+[00:29:15] [Async Chat Thread - #13/INFO]: <dotunglamnd> ma bi khien che het a`
+[00:30:04] [Server thread/INFO]: lucbeo fell from a high place
+[00:30:23] [Server thread/INFO]: No ? goay fell from a high place
+[00:30:30] [Async Chat Thread - #14/INFO]: <dotunglamnd> no nhanh qua
+[00:30:58] [Async Chat Thread - #14/INFO]: <Cashuto> gi
+[00:31:04] [Server thread/INFO]: lucbeo drowned
+[00:31:08] [Async Chat Thread - #14/INFO]: <dotunglamnd> dcm
+[00:31:21] [Async Chat Thread - #14/INFO]: <Cashuto> oc cho
+[00:31:22] [Server thread/INFO]: dotunglamnd drowned
+[00:32:08] [Async Chat Thread - #14/INFO]: <Cashuto> m muc may xo vay
+[00:32:24] [Async Chat Thread - #14/INFO]: <Cashuto> oc cho
+[00:33:01] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[00:33:01] [Server thread/INFO]: No ? goay left the game
+[00:33:07] [Async Chat Thread - #14/INFO]: <dotunglamnd> m de xio nc dau v
+[00:34:10] [Server thread/INFO]: lucbeo fell from a high place
+[00:35:14] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:35:44] [Server thread/INFO]: Cashuto fell from a high place
+[00:36:19] [Async Chat Thread - #15/INFO]: <dotunglamnd> e
+[00:36:26] [Async Chat Thread - #15/INFO]: <dotunglamnd> m nhay len cai cuc slime a
+[00:36:33] [Async Chat Thread - #15/INFO]: <dotunglamnd> ma` m ba, shift di
+[00:36:43] [Async Chat Thread - #15/INFO]: <dotunglamnd> no nay cao hon
+[00:36:54] [Async Chat Thread - #15/INFO]: <dotunglamnd> nhay di
+[00:36:59] [Async Chat Thread - #15/INFO]: <dotunglamnd> bam shift a
+[00:37:07] [Async Chat Thread - #15/INFO]: <dotunglamnd> :))
+[00:37:20] [Server thread/INFO]: lucbeo fell from a high place
+[00:37:42] [Async Chat Thread - #15/INFO]: <dotunglamnd> t de cai giuong do
+[00:38:20] [Server thread/INFO]: lucbeo fell from a high place
+[00:38:40] [Async Chat Thread - #15/INFO]: <dotunglamnd> m cui ng xuong het co
+[00:38:51] [Async Chat Thread - #15/INFO]: <dotunglamnd> la m canh dc block m se ha canh
+[00:39:16] [Async Chat Thread - #15/INFO]: <dotunglamnd> keo chuot xuong het co ay
+[00:40:28] [Async Chat Thread - #16/INFO]: <dotunglamnd> ha
+[00:40:46] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:41:57] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:42:01] [Async Chat Thread - #17/INFO]: <dotunglamnd> ko toi
+[00:44:16] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:44:26] [Server thread/INFO]: lucbeo fell from a high place
+[00:44:41] [Async Chat Thread - #18/INFO]: <dotunglamnd> dell beit cuc nao voi cuc nao`
+[00:45:03] [Async Chat Thread - #18/INFO]: <dotunglamnd> e dm
+[00:45:09] [Async Chat Thread - #18/INFO]: <dotunglamnd> m len coi ne
+[00:45:19] [Async Chat Thread - #18/INFO]: <dotunglamnd> hay vc
+[00:45:48] [Async Chat Thread - #18/INFO]: <dotunglamnd> dm
+[00:45:51] [Async Chat Thread - #18/INFO]: <dotunglamnd> cho ti
+[00:46:03] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:46:15] [Async Chat Thread - #18/INFO]: <dotunglamnd> dung do di
+[00:47:42] [Async Chat Thread - #19/INFO]: <dotunglamnd> :v
+[00:48:00] [Async Chat Thread - #19/INFO]: <dotunglamnd> co uyen thung a`
+[00:48:13] [Async Chat Thread - #19/INFO]: <lucbeo> uh
+[00:48:24] [Async Chat Thread - #19/INFO]: <dotunglamnd> chanh oi
+[00:48:30] [Async Chat Thread - #19/INFO]: <dotunglamnd> len day coi cai nay hay vc
+[00:48:54] [Async Chat Thread - #19/INFO]: <dotunglamnd> chanh
+[00:49:00] [Async Chat Thread - #19/INFO]: <Cashuto> gi
+[00:49:05] [Async Chat Thread - #19/INFO]: <dotunglamnd> len cai cho nhay di
+[00:49:09] [Async Chat Thread - #19/INFO]: <dotunglamnd> hay vcl luon
+[00:49:15] [Async Chat Thread - #19/INFO]: <Cashuto> hoi
+[00:49:22] [Async Chat Thread - #19/INFO]: <Cashuto> nhay nhieu roi
+[00:49:26] [Async Chat Thread - #19/INFO]: <dotunglamnd> ko
+[00:49:29] [Async Chat Thread - #19/INFO]: <dotunglamnd> ko phai nhay
+[00:49:33] [Async Chat Thread - #19/INFO]: <dotunglamnd> len coi cai khac
+[00:49:46] [Server thread/INFO]: dotunglamnd was shot by dotunglamnd
+[00:49:56] [Async Chat Thread - #19/INFO]: <lucbeo> DDDDDDDDDWWWWWWWWWWWWWWWWWWWWWDDDDDDDDDDDDDDDDDDDDDDDDDDDDDWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWSyt:v
+[00:50:02] [Async Chat Thread - #19/INFO]: <dotunglamnd> :v
+[00:50:03] [Async Chat Thread - #19/INFO]: <lucbeo> vãi c? lone
+[00:50:06] [Async Chat Thread - #19/INFO]: <dotunglamnd> vui vcl
+[00:50:52] [Server thread/INFO]: lucbeo fell from a high place
+[00:51:12] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:51:21] [Async Chat Thread - #20/INFO]: <lucbeo> mission fail
+[00:51:25] [Async Chat Thread - #20/INFO]: <dotunglamnd> ma
+[00:51:28] [Async Chat Thread - #20/INFO]: <dotunglamnd> dau bung
+[00:51:48] [Async Chat Thread - #20/INFO]: <dotunglamnd> dat cai cuc da phat sang o ben duuoi cho de nhin`
+[00:51:50] [Server thread/INFO]: lucbeo fell from a high place
+[00:51:59] [Server thread/INFO]: dotunglamnd fell from a high place
+[00:52:45] [Async Chat Thread - #20/INFO]: <lucbeo> ee
+[00:52:52] [Async Chat Thread - #20/INFO]: <lucbeo> xin giàn giáo
+[00:52:52] [Async Chat Thread - #20/INFO]: <dotunglamnd> an f5 r nhay a luc
+[00:53:16] [Async Chat Thread - #20/INFO]: <lucbeo> ?? b? k?t ko l?y ?c
+[00:53:25] [Server thread/INFO]: dotunglamnd was slain by Zombie
+[00:55:31] [Async Chat Thread - #21/INFO]: <lucbeo> t b? m?t máu, khi nh?y trúng smile
+[00:55:46] [Async Chat Thread - #21/INFO]: <lucbeo> ?????????
+[00:56:26] [Server thread/INFO]: lucbeo fell from a high place
+[00:56:49] [Async Chat Thread - #22/INFO]: <dotunglamnd> rua de trung r
+[00:56:57] [Async Chat Thread - #22/INFO]: <Cashuto> ukn
+[00:56:59] [Server thread/INFO]: lucbeo fell from a high place
+[00:57:06] [Async Chat Thread - #22/INFO]: <Cashuto> t giet may con vo duung roi
+[00:57:14] [Async Chat Thread - #22/INFO]: <lucbeo> xong rôi
+[00:57:19] [Async Chat Thread - #22/INFO]: <Cashuto> con 3 con trung no ra
+[00:57:28] [Async Chat Thread - #22/INFO]: <dotunglamnd> moi no
+[00:57:53] [Server thread/INFO]: lucbeo fell from a high place
+[00:58:39] [Async Chat Thread - #23/INFO]: <lucbeo> clm t chet la mat ?ò
+[00:58:50] [Async Chat Thread - #23/INFO]: <dotunglamnd> thoi t nghi day
+[00:58:54] [Async Chat Thread - #23/INFO]: <dotunglamnd> mai di hoc
+[00:58:57] [Async Chat Thread - #23/INFO]: <lucbeo> ee
+[00:59:01] [Async Chat Thread - #23/INFO]: <dotunglamnd> ha
+[00:59:11] [Async Chat Thread - #23/INFO]: <lucbeo> maf tai sao nhay trung ma van chet
+[00:59:23] [Async Chat Thread - #23/INFO]: <dotunglamnd> nhay trung cai canh la chet
+[00:59:45] [Async Chat Thread - #23/INFO]: <dotunglamnd> nghi nha
+[01:00:42] [Async Chat Thread - #23/INFO]: <dotunglamnd> :v
+[01:00:46] [Async Chat Thread - #23/INFO]: <dotunglamnd> thhoi nghi
+[01:00:50] [Async Chat Thread - #23/INFO]: <Cashuto> ok
+[01:00:55] [Server thread/INFO]: lucbeo lost connection: Disconnected
+[01:00:55] [Server thread/INFO]: lucbeo left the game
+[01:00:59] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
+[01:00:59] [Server thread/INFO]: dotunglamnd left the game
+[01:10:44] [Server thread/INFO]: Villager EntityVillager['Villager'/633, uuid='00e826cc-1a51-4c33-8c79-dda6c1e706e9', l='ServerLevel[world]', x=41.76, y=63.00, z=250.93, cx=2, cz=15, tl=1380113, v=true, d=false] died, message: 'Villager was slain by Cashuto'
+[01:30:48] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[01:30:48] [Server thread/INFO]: Cashuto left the game
+[01:31:51] [User Authenticator #4/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[01:31:51] [Server thread/INFO]: Cashuto joined the game
+[01:31:51] [Server thread/INFO]: Cashuto[/14.226.247.19:64974] logged in with entity id 29080 at ([world]69.20487259774734, 65.0, 324.4995397620369)
+[03:40:12] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[03:40:12] [Server thread/INFO]: Cashuto left the game
+[03:41:58] [User Authenticator #5/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[03:41:59] [Server thread/INFO]: Cashuto joined the game
+[03:41:59] [Server thread/INFO]: Cashuto[/14.226.247.19:65078] logged in with entity id 50184 at ([world]23.149163249796196, 65.0, 262.6717168828054)
+[04:18:03] [Server thread/INFO]: Cashuto was slain by Zombified Piglin
+[04:36:00] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[04:36:00] [Server thread/INFO]: Cashuto left the game
+[04:37:06] [User Authenticator #6/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[04:37:07] [Server thread/INFO]: Cashuto joined the game
+[04:37:07] [Server thread/INFO]: Cashuto[/14.226.247.19:65159] logged in with entity id 57627 at ([world_nether]245.50290825041773, 94.0, -95.75549587198199)
+[06:25:23] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[06:25:23] [Server thread/INFO]: Cashuto left the game
+[06:26:18] [Server thread/INFO]: Stopping server
+[06:26:18] [Server thread/INFO]: Saving players
+[06:26:18] [Server thread/INFO]: Saving worlds
+[06:26:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:26:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:26:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:26:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:26:18] [Server thread/INFO]: Flushing Chunk IO
+[06:26:18] [Server thread/INFO]: Closing Thread Pool
+[06:26:18] [Server thread/INFO]: Closing Server

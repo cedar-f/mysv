@@ -1690,6 +1690,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-09-07 00:27:47 +0700",
       "chicken": "2020-08-29 22:52:19 +0700",
       "cooked_mutton": "2020-08-29 00:57:51 +0700",
       "sweet_berries": "2020-08-25 02:34:39 +0700",
@@ -1848,6 +1849,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2020-08-25 01:56:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2020-09-07 00:20:55 +0700"
     },
     "done": true
   },
@@ -2488,6 +2495,12 @@
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2020-08-24 23:35:27 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2020-09-07 00:20:55 +0700"
     },
     "done": true
   },
