@@ -136,10 +136,6 @@
 [07:36:02] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
 [07:36:02] [Server thread/INFO]: dotunglamnd joined the game
 [07:36:02] [Server thread/INFO]: dotunglamnd[/127.0.0.1:51911] logged in with entity id 1068 at ([world]6.3958439065758474, 65.0, 283.48031654319436)
-[07:38:27] [Server thread/INFO]: Set dotunglamnd's game mode to Creative Mode
-[07:39:41] [Server thread/INFO]: Set dotunglamnd's game mode to Survival Mode
-[07:44:09] [Server thread/INFO]: Set dotunglamnd's game mode to Creative Mode
-[07:45:02] [Server thread/INFO]: Set dotunglamnd's game mode to Survival Mode
 [07:52:42] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
 [07:52:42] [Server thread/INFO]: dotunglamnd left the game
 [07:52:47] [Server thread/INFO]: Stopping the server
