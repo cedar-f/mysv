@@ -1422,11 +1422,19 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2020-09-10 23:16:42 +0700",
       "minecraft:soul_sand_valley": "2020-08-24 21:12:15 +0700",
       "minecraft:nether_wastes": "2020-08-24 23:02:19 +0700",
-      "minecraft:basalt_deltas": "2020-08-24 23:02:33 +0700"
+      "minecraft:basalt_deltas": "2020-08-24 23:02:33 +0700",
+      "minecraft:warped_forest": "2020-09-10 23:23:50 +0700"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-09-10 22:54:05 +0700"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -1992,6 +2000,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2020-09-02 02:02:34 +0700",
+      "minecraft:turtle": "2020-09-10 22:44:13 +0700",
       "minecraft:sheep": "2020-08-24 20:17:33 +0700",
       "minecraft:cow": "2020-08-24 20:17:35 +0700",
       "minecraft:chicken": "2020-08-24 04:26:21 +0700",

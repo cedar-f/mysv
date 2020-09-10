@@ -857,6 +857,7 @@
       "minecraft:magma_cube": "2020-08-26 00:59:54 +0700",
       "minecraft:spider": "2020-08-20 15:07:19 +0700",
       "minecraft:creeper": "2020-08-20 16:04:26 +0700",
+      "minecraft:wither": "2020-09-10 22:12:15 +0700",
       "minecraft:slime": "2020-08-23 23:35:29 +0700",
       "minecraft:evoker": "2020-08-28 01:10:00 +0700",
       "minecraft:phantom": "2020-08-28 22:55:46 +0700",
@@ -1262,6 +1263,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_blue_flower": "2020-08-20 01:24:46 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-09-10 22:32:49 +0700"
     },
     "done": true
   },
@@ -1903,6 +1910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2020-09-10 22:45:52 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-08-20 00:27:42 +0700"
@@ -1960,6 +1973,12 @@
   "minecraft:recipes/building_blocks/dried_kelp_block": {
     "criteria": {
       "has_dried_kelp": "2020-08-29 00:01:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-09-10 22:46:12 +0700"
     },
     "done": true
   },
@@ -2138,6 +2157,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2020-08-20 16:27:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2020-09-10 22:45:52 +0700"
     },
     "done": true
   },
@@ -2471,6 +2496,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-09-10 22:38:33 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2020-08-20 00:17:37 +0700"
@@ -2504,6 +2535,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-08-20 15:54:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-09-10 22:10:55 +0700"
     },
     "done": true
   },
@@ -2859,6 +2896,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-08-20 01:19:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-09-10 22:13:05 +0700"
     },
     "done": true
   },
@@ -3771,6 +3814,12 @@
   "minecraft:recipes/misc/iron_ingot": {
     "criteria": {
       "has_iron_ore": "2020-08-20 01:13:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2020-09-10 22:45:52 +0700"
     },
     "done": true
   },
