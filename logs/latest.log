@@ -1,230 +1,223 @@
-[14:40:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[14:40:01] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[14:40:02] [Server-Worker-3/INFO]: Loaded 7 recipes
-[14:40:06] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[14:40:06] [Server thread/INFO]: Loading properties
-[14:40:06] [Server thread/INFO]: This server is running Paper version git-Paper-147 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
-[14:40:06] [Server thread/INFO]: Debug logging is disabled
-[14:40:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:40:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:40:06] [Server thread/INFO]: Default game type: SURVIVAL
-[14:40:06] [Server thread/INFO]: Generating keypair
-[14:40:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:40:07] [Server thread/INFO]: Using default channel type
-[14:40:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:40:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:40:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:40:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:40:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:40:07] [Server thread/INFO]: Preparing level "world"
-[14:40:07] [Server thread/INFO]: -------- World Settings For [world] --------
-[14:40:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:40:07] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:40:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:40:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:40:07] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:40:07] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:40:07] [Server thread/INFO]: View Distance: 10
-[14:40:07] [Server thread/INFO]: Mob Spawn Range: 8
-[14:40:07] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:40:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:40:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:40:07] [Server thread/INFO]: Max TNT Explosions: 100
-[14:40:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:40:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:40:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:40:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:40:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[14:40:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:40:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:40:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:40:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:40:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:40:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:40:08] [Server thread/INFO]: View Distance: 10
-[14:40:08] [Server thread/INFO]: Mob Spawn Range: 8
-[14:40:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:40:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:40:08] [Server thread/INFO]: Max TNT Explosions: 100
-[14:40:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:40:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:40:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:40:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:40:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[14:40:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[14:40:08] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[14:40:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[14:40:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[14:40:08] [Server thread/INFO]: Item Merge Radius: 2.5
-[14:40:08] [Server thread/INFO]: Item Despawn Rate: 6000
-[14:40:08] [Server thread/INFO]: View Distance: 10
-[14:40:08] [Server thread/INFO]: Mob Spawn Range: 8
-[14:40:08] [Server thread/INFO]: Experience Merge Radius: 3.0
-[14:40:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Cane Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Melon Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Potato Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Vine Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[14:40:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[14:40:08] [Server thread/INFO]: Max TNT Explosions: 100
-[14:40:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[14:40:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[14:40:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[14:40:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[14:40:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:40:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[14:40:09] [Server thread/INFO]: Time elapsed: 718 ms
-[14:40:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:40:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[14:40:09] [Server thread/INFO]: Time elapsed: 149 ms
-[14:40:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:40:09] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[14:40:09] [Server thread/INFO]: Time elapsed: 122 ms
-[14:40:09] [Server thread/INFO]: Running delayed init tasks
-[14:40:09] [Server thread/INFO]: Done (3.304s)! For help, type "help"
-[14:40:09] [Server thread/INFO]: Timings Reset
-[14:45:23] [User Authenticator #1/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[14:45:23] [Server thread/INFO]: lucbeo joined the game
-[14:45:23] [Server thread/INFO]: lucbeo[/192.168.1.13:50879] logged in with entity id 1017 at ([world]-94.44093297477878, 68.0, 240.52664294665732)
-[14:45:40] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[14:45:40] [Server thread/INFO]: lucbeo left the game
-[14:45:50] [User Authenticator #1/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[14:45:50] [Server thread/INFO]: lucbeo joined the game
-[14:45:50] [Server thread/INFO]: lucbeo[/192.168.1.13:50880] logged in with entity id 1132 at ([world]-94.44093297477878, 68.0, 240.52664294665732)
-[14:54:51] [User Authenticator #2/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
-[14:54:51] [Server thread/INFO]: dotunglamnd joined the game
-[14:54:51] [Server thread/INFO]: dotunglamnd[/127.0.0.1:57533] logged in with entity id 3702 at ([world_nether]-33.23732087118457, 128.875, -62.46539672553991)
-[14:55:44] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[14:59:48] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[14:59:48] [Server thread/INFO]: lucbeo fell from a high place
-[15:00:08] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[15:01:40] [Server thread/INFO]: Teleported lucbeo to -349.5, 65.0, -499.5
-[15:03:55] [Server thread/INFO]: dotunglamnd fell from a high place
-[15:05:50] [Server thread/INFO]: lucbeo fell from a high place
-[15:09:57] [Server thread/INFO]: lucbeo walked into danger zone due to Magma Cube
-[15:11:37] [Server thread/INFO]: lucbeo fell from a high place
-[15:14:08] [Server thread/INFO]: lucbeo has made the advancement [Not Quite "Nine" Lives]
-[15:14:10] [Server thread/INFO]: dotunglamnd fell from a high place
-[15:18:15] [Server thread/INFO]: dotunglamnd fell from a high place
-[15:20:30] [Server thread/INFO]: lucbeo fell from a high place
-[15:21:29] [Server thread/INFO]: dotunglamnd was slain by Magma Cube
-[15:22:35] [Server thread/INFO]: dotunglamnd fell from a high place
-[15:22:51] [Server thread/INFO]: lucbeo was slain by Magma Cube
-[15:25:08] [Server thread/INFO]: An entity is required to run this command here
-[15:25:17] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[15:25:48] [Async Chat Thread - #0/INFO]: <lucbeo> DIUT ME M
-[15:25:54] [Server thread/INFO]: [Server] dit mem
-[15:26:38] [Server thread/INFO]: lucbeo has completed the challenge [Cover Me in Debris]
-[15:31:43] [Server thread/WARN]: lucbeo moved too quickly! 0.11440394996128589,-0.8787031594607981,-13.676899836020482
-[15:31:45] [Server thread/INFO]: dotunglamnd fell from a high place
-[15:36:29] [Server thread/INFO]: lucbeo has made the advancement [Hidden in the Depths]
-[15:39:42] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[15:39:43] [Server thread/INFO]: lucbeo left the game
-[15:39:53] [User Authenticator #3/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[15:39:53] [Server thread/INFO]: lucbeo joined the game
-[15:39:53] [Server thread/INFO]: lucbeo[/192.168.1.13:51000] logged in with entity id 14603 at ([world_nether]-12.300000011920929, 56.0, -56.02504337840626)
-[15:45:29] [Server thread/INFO]: lucbeo burned to death
-[15:46:32] [Server thread/INFO]: lucbeo was slain by Zombie
-[15:47:11] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[15:52:17] [Server thread/INFO]: Incorrect argument for command
-[15:52:17] [Server thread/INFO]: tp luc beo -300 80 -500<--[HERE]
-[15:52:30] [Server thread/INFO]: Teleported lucbeo to -299.5, 80.0, -499.5
-[15:53:09] [Server thread/INFO]: lucbeo was slain by Magma Cube
-[15:53:10] [Server thread/INFO]: Attempt to teleport dead player lucbeo restricted
-[15:53:10] [Server thread/INFO]: Attempt to teleport dead player lucbeo restricted
-[15:56:50] [Server thread/INFO]: dotunglamnd was slain by Magma Cube
-[15:57:55] [Server thread/INFO]: dotunglamnd was slain by Magma Cube
-[15:58:43] [Server thread/INFO]: lucbeo was slain by Slime
-[15:58:44] [Server thread/INFO]: Attempt to teleport dead player lucbeo restricted
-[15:58:44] [Server thread/INFO]: Attempt to teleport dead player lucbeo restricted
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -12.885580475272697,0.0,15.596019078531015
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -13.149019396043137,0.0,15.89669500901254
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -13.41249017226071,0.0,16.197375246022673
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -13.675989618379923,0.0,16.49805935890845
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -13.939514867409947,0.0,16.798746960082212
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.203063339059078,0.0,17.099437700715086
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.466632711064854,0.0,17.40013126686108
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.730220893391106,0.0,17.700827375968814
-[16:01:44] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.993826005005346,0.0,18.001525773742053
-[16:02:54] [Server thread/INFO]: dotunglamnd fell from a high place
-[16:12:45] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[16:12:45] [Server thread/INFO]: lucbeo left the game
-[16:14:58] [Server thread/INFO]: dotunglamnd fell from a high place
-[16:15:24] [User Authenticator #4/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
-[16:15:24] [Server thread/INFO]: lucbeo joined the game
-[16:15:24] [Server thread/INFO]: lucbeo[/192.168.1.13:51063] logged in with entity id 29954 at ([world]23.26362464631994, 65.0, 262.35998388051746)
-[16:17:22] [Server thread/INFO]: dotunglamnd fell from a high place
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.01959345563995,0.0,-14.514727971379045
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.182959366944658,0.0,-14.872044706787335
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.334214569185178,0.0,-15.233405906547603
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.472655435624574,0.0,-15.598564148839614
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.59783893870565,0.0,-15.967202254591996
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.709537774675084,0.0,-16.338964868751532
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.807705766942604,0.0,-16.713481474303137
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.892441703339443,0.0,-17.090382697868904
-[16:17:41] [Server thread/WARN]: Boat (vehicle of lucbeo) moved too quickly! -14.96395989712579,0.0,-17.469311456896833
-[16:19:46] [Server thread/INFO]: dotunglamnd was slain by Piglin
-[16:22:29] [Server thread/INFO]: lucbeo fell from a high place
-[16:22:54] [Server thread/INFO]: Teleported lucbeo to 0.5, 65.0, 226.5
-[16:24:31] [Server thread/INFO]: lucbeo fell from a high place
-[16:37:53] [Server thread/INFO]: lucbeo lost connection: Disconnected
-[16:37:53] [Server thread/INFO]: lucbeo left the game
-[16:38:18] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
-[16:38:18] [Server thread/INFO]: dotunglamnd left the game
-[16:38:23] [Server thread/INFO]: Stopping server
-[16:38:23] [Server thread/INFO]: Saving players
-[16:38:23] [Server thread/INFO]: Saving worlds
-[16:38:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:38:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:38:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:38:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:38:24] [Server thread/INFO]: Flushing Chunk IO
-[16:38:24] [Server thread/INFO]: Closing Thread Pool
-[16:38:24] [Server thread/INFO]: Closing Server
+[18:38:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[18:38:57] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:38:58] [Server-Worker-4/INFO]: Loaded 7 recipes
+[18:39:00] [Server thread/INFO]: Starting minecraft server version 1.16.2
+[18:39:00] [Server thread/INFO]: Loading properties
+[18:39:00] [Server thread/INFO]: This server is running Paper version git-Paper-147 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
+[18:39:00] [Server thread/INFO]: Debug logging is disabled
+[18:39:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:39:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:39:00] [Server thread/INFO]: Default game type: SURVIVAL
+[18:39:00] [Server thread/INFO]: Generating keypair
+[18:39:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:39:00] [Server thread/INFO]: Using default channel type
+[18:39:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:39:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:39:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:39:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:39:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:39:00] [Server thread/INFO]: Preparing level "world"
+[18:39:00] [Server thread/INFO]: -------- World Settings For [world] --------
+[18:39:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:39:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:39:00] [Server thread/INFO]: View Distance: 10
+[18:39:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:39:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:00] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:39:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:39:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:39:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:39:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:00] [Server thread/INFO]: Mob Spawn Range: 8
+[18:39:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:00] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[18:39:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:39:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:39:00] [Server thread/INFO]: View Distance: 10
+[18:39:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:39:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:00] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:39:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:39:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:39:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:39:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:00] [Server thread/INFO]: Mob Spawn Range: 8
+[18:39:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:00] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[18:39:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[18:39:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[18:39:00] [Server thread/INFO]: Item Merge Radius: 2.5
+[18:39:00] [Server thread/INFO]: Item Despawn Rate: 6000
+[18:39:00] [Server thread/INFO]: View Distance: 10
+[18:39:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[18:39:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[18:39:00] [Server thread/INFO]: Max TNT Explosions: 100
+[18:39:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[18:39:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[18:39:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cane Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Melon Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Potato Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Vine Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[18:39:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[18:39:00] [Server thread/INFO]: Experience Merge Radius: 3.0
+[18:39:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[18:39:00] [Server thread/INFO]: Mob Spawn Range: 8
+[18:39:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[18:39:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:39:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[18:39:01] [Server thread/INFO]: Time elapsed: 174 ms
+[18:39:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:39:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[18:39:01] [Server thread/INFO]: Time elapsed: 79 ms
+[18:39:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:39:01] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[18:39:01] [Server thread/INFO]: Time elapsed: 45 ms
+[18:39:01] [Server thread/INFO]: Running delayed init tasks
+[18:39:01] [Server thread/INFO]: Done (1.358s)! For help, type "help"
+[18:39:01] [Server thread/INFO]: Timings Reset
+[20:05:41] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
+[20:05:42] [Server thread/INFO]: dotunglamnd joined the game
+[20:05:42] [Server thread/INFO]: dotunglamnd[/58.187.169.167:22381] logged in with entity id 2588 at ([world_nether]-59.30000001192093, 213.5, -45.82319066542484)
+[20:45:17] [User Authenticator #2/INFO]: UUID of player No ? goay is a07e9af1-395b-3374-b75b-842f76b1e55c
+[20:45:18] [Server thread/INFO]: No ? goay joined the game
+[20:45:18] [Server thread/INFO]: No ? goay[/127.0.0.1:52260] logged in with entity id 9493 at ([world_nether]-41.066037293369504, 180.5, -45.58337901097803)
+[20:47:49] [Async Chat Thread - #0/INFO]: <dotunglamnd> ben may farm vang` nay
+[20:49:08] [Async Chat Thread - #1/INFO]: <dotunglamnd> ke me no
+[20:49:13] [Async Chat Thread - #1/INFO]: <dotunglamnd> t cay no sang h
+[20:49:16] [Async Chat Thread - #1/INFO]: <dotunglamnd> giet dell het
+[20:49:19] [User Authenticator #3/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[20:49:19] [Server thread/INFO]: Cashuto joined the game
+[20:49:19] [Server thread/INFO]: Cashuto[/14.226.228.7:64420] logged in with entity id 10117 at ([world_nether]245.08609868898566, 94.0, -98.35711912796137)
+[20:49:21] [Async Chat Thread - #1/INFO]: <dotunglamnd> chet dell biet bao nhieu lan`
+[20:51:00] [Async Chat Thread - #2/INFO]: <dotunglamnd> co qua trung rua` o trong do
+[20:51:08] [Async Chat Thread - #2/INFO]: <dotunglamnd> uk
+[20:51:19] [Async Chat Thread - #2/INFO]: <dotunglamnd> no di pha trai trung rua`
+[20:51:30] [Async Chat Thread - #2/INFO]: <dotunglamnd> ai biet
+[20:51:52] [Async Chat Thread - #2/INFO]: <dotunglamnd> dm
+[20:51:56] [Async Chat Thread - #2/INFO]: <dotunglamnd> can thit thoi a`
+[20:52:07] [Async Chat Thread - #2/INFO]: <dotunglamnd> t moi vut ca hon chuc stack
+[20:52:17] [Async Chat Thread - #2/INFO]: <dotunglamnd> ve trc di
+[20:52:20] [Async Chat Thread - #2/INFO]: <dotunglamnd> t xay them ruong
+[20:53:29] [Async Chat Thread - #3/INFO]: <dotunglamnd> dm
+[20:53:38] [Async Chat Thread - #3/INFO]: <dotunglamnd> cay con ghast thuc su
+[20:53:45] [Async Chat Thread - #3/INFO]: <dotunglamnd> cu xay la no pha
+[20:54:01] [Async Chat Thread - #3/INFO]: <dotunglamnd> khoi dung nham
+[20:56:33] [Async Chat Thread - #4/INFO]: <dotunglamnd> lol luc
+[20:56:40] [Async Chat Thread - #4/INFO]: <dotunglamnd> sang no nghich giuong`
+[20:59:54] [Async Chat Thread - #5/INFO]: <dotunglamnd> cai lon`
+[21:00:00] [Async Chat Thread - #5/INFO]: <dotunglamnd> t dat 2 cai ruong canh nhau
+[21:00:06] [Async Chat Thread - #5/INFO]: <dotunglamnd> ma` no ko ghep lai
+[21:01:20] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[21:01:20] [Server thread/INFO]: Cashuto left the game
+[21:05:05] [User Authenticator #4/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[21:05:05] [Server thread/INFO]: Cashuto joined the game
+[21:05:05] [Server thread/INFO]: Cashuto[/14.226.247.118:64560] logged in with entity id 16787 at ([world_nether]-7.699999988079071, 55.0, -42.85674726020767)
+[21:07:54] [Async Chat Thread - #6/INFO]: <dotunglamnd> r cai dit me
+[21:08:06] [Async Chat Thread - #6/INFO]: <dotunglamnd> m lay cai thuyen cua t luon thang ml
+[21:08:19] [Async Chat Thread - #6/INFO]: <dotunglamnd> dau cc
+[21:10:51] [Async Chat Thread - #7/INFO]: <dotunglamnd> dm
+[21:11:01] [Async Chat Thread - #7/INFO]: <dotunglamnd> con cao cam co bien ga dit con rua nay`
+[21:11:17] [Async Chat Thread - #7/INFO]: <dotunglamnd> con cáo c?m c? bi?n g? ??t
+[21:12:05] [Async Chat Thread - #7/INFO]: <dotunglamnd> o cai dit
+[21:12:09] [Async Chat Thread - #7/INFO]: <dotunglamnd> quen dem vang ve r
+[21:14:42] [User Authenticator #5/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[21:14:42] [Server thread/INFO]: Cashuto lost connection: You logged in from another location
+[21:14:42] [Server thread/INFO]: Cashuto left the game
+[21:14:42] [Server thread/INFO]: Cashuto joined the game
+[21:14:42] [Server thread/INFO]: Cashuto[/14.226.247.118:1367] logged in with entity id 22274 at ([world_nether]-6.872588285475711, 58.0, -57.519164391044264)
+[21:16:55] [Async Chat Thread - #8/INFO]: <dotunglamnd> de t7 cn t nghien cuu lam cai may farm luc bao
+[21:17:18] [Async Chat Thread - #8/INFO]: <dotunglamnd> t bo gay trong ruong do thang
+[21:20:32] [Async Chat Thread - #9/INFO]: <dotunglamnd> giet di
+[21:20:36] [Async Chat Thread - #9/INFO]: <dotunglamnd> lay cai den hieu
+[21:20:51] [Server thread/WARN]: Mule (vehicle of dotunglamnd) moved wrongly! 0.2696727750165451
+[21:21:35] [Async Chat Thread - #9/INFO]: <dotunglamnd> m an mia a` thang
+[21:24:47] [Async Chat Thread - #10/INFO]: <dotunglamnd> hdt cung no
+[21:28:00] [Async Chat Thread - #11/INFO]: <dotunglamnd> ko
+[21:28:09] [Async Chat Thread - #11/INFO]: <dotunglamnd> ko
+[21:28:30] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[21:28:30] [Server thread/INFO]: Cashuto left the game
+[21:31:08] [Async Chat Thread - #12/INFO]: <dotunglamnd> nay t hoi doi
+[21:32:08] [Server thread/WARN]: dotunglamnd moved wrongly!
+[21:32:25] [Async Chat Thread - #13/INFO]: <dotunglamnd> thang
+[21:32:27] [Async Chat Thread - #13/INFO]: <dotunglamnd> m dau r
+[21:33:22] [Async Chat Thread - #13/INFO]: <dotunglamnd> cho ti
+[21:33:51] [Async Chat Thread - #13/INFO]: <dotunglamnd> dm
+[21:33:53] [Async Chat Thread - #13/INFO]: <dotunglamnd> lai day
+[21:34:14] [Server thread/INFO]: dotunglamnd has reached the goal [Hired Help]
+[21:34:33] [Async Chat Thread - #13/INFO]: <dotunglamnd> :v
+[21:35:11] [Async Chat Thread - #13/INFO]: <dotunglamnd> dat cai qua bi ngo xuong dat
+[21:35:17] [Async Chat Thread - #13/INFO]: <dotunglamnd> xong lay cai keo cat no
+[21:35:32] [Async Chat Thread - #13/INFO]: <dotunglamnd> cao len 2 block
+[21:35:39] [Server thread/INFO]: No ? goay has reached the goal [Hired Help]
+[21:35:55] [Async Chat Thread - #13/INFO]: <dotunglamnd> xong no dap het trung
+[21:36:40] [Async Chat Thread - #13/INFO]: <dotunglamnd> hm
+[21:36:44] [Async Chat Thread - #13/INFO]: <dotunglamnd> nen save game trc ko
+[21:37:23] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
+[21:37:23] [Server thread/INFO]: dotunglamnd left the game
+[21:37:25] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[21:37:25] [Server thread/INFO]: No ? goay left the game
+[21:37:32] [Server thread/INFO]: Stopping server
+[21:37:32] [Server thread/INFO]: Saving players
+[21:37:32] [Server thread/INFO]: Saving worlds
+[21:37:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:37:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:37:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[21:37:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:37:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[21:37:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:37:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:37:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:37:34] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:37:34] [Server thread/INFO]: Flushing Chunk IO
+[21:37:34] [Server thread/INFO]: Closing Thread Pool
+[21:37:34] [Server thread/INFO]: Closing Server
