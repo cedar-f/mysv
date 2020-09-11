@@ -1,150 +1,214 @@
-[19:12:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[19:12:54] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:12:56] [Server-Worker-3/INFO]: Loaded 7 recipes
-[19:12:59] [Server thread/INFO]: Starting minecraft server version 1.16.2
-[19:12:59] [Server thread/INFO]: Loading properties
-[19:12:59] [Server thread/INFO]: This server is running Paper version git-Paper-147 (MC: 1.16.2) (Implementing API version 1.16.2-R0.1-SNAPSHOT)
-[19:12:59] [Server thread/INFO]: Debug logging is disabled
-[19:12:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:12:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:12:59] [Server thread/INFO]: Default game type: SURVIVAL
-[19:12:59] [Server thread/INFO]: Generating keypair
-[19:13:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:13:00] [Server thread/INFO]: Using default channel type
-[19:13:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:13:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:13:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:13:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:13:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:13:00] [Server thread/INFO]: Preparing level "world"
-[19:13:00] [Server thread/INFO]: -------- World Settings For [world] --------
-[19:13:00] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:13:00] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:13:00] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:13:00] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:13:00] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:13:00] [Server thread/INFO]: Max TNT Explosions: 100
-[19:13:00] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:13:00] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:13:00] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:13:00] [Server thread/INFO]: View Distance: 10
-[19:13:00] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:13:00] [Server thread/INFO]: Mob Spawn Range: 8
-[19:13:00] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:13:00] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:13:00] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:13:00] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:13:01] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[19:13:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:13:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:13:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:13:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:13:01] [Server thread/INFO]: Max TNT Explosions: 100
-[19:13:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:13:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:13:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:13:01] [Server thread/INFO]: View Distance: 10
-[19:13:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:13:01] [Server thread/INFO]: Mob Spawn Range: 8
-[19:13:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:13:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:13:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:13:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:13:01] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[19:13:01] [Server thread/INFO]: Experience Merge Radius: 3.0
-[19:13:01] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Cane Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Melon Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Potato Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Vine Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[19:13:01] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[19:13:01] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[19:13:01] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[19:13:01] [Server thread/INFO]: Max TNT Explosions: 100
-[19:13:01] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[19:13:01] [Server thread/INFO]: Item Merge Radius: 2.5
-[19:13:01] [Server thread/INFO]: Item Despawn Rate: 6000
-[19:13:01] [Server thread/INFO]: View Distance: 10
-[19:13:01] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[19:13:01] [Server thread/INFO]: Mob Spawn Range: 8
-[19:13:01] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[19:13:01] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[19:13:01] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[19:13:01] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[19:13:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:13:02] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[19:13:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:13:02] [Server thread/INFO]: Preparing spawn area: 0%
-[19:13:02] [Server thread/INFO]: Time elapsed: 782 ms
-[19:13:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:13:02] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[19:13:03] [Server thread/INFO]: Time elapsed: 711 ms
-[19:13:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:13:03] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[19:13:04] [Server thread/INFO]: Time elapsed: 1374 ms
-[19:13:04] [Server thread/INFO]: Running delayed init tasks
-[19:13:04] [Server thread/INFO]: Done (5.219s)! For help, type "help"
-[19:13:04] [Server thread/INFO]: Timings Reset
-[19:13:11] [User Authenticator #1/INFO]: UUID of player dotunglamnd is 5337d88e-f7f9-3097-9109-db7b8ca403d0
-[19:13:11] [Server thread/INFO]: dotunglamnd joined the game
-[19:13:12] [Server thread/INFO]: dotunglamnd[/127.0.0.1:50036] logged in with entity id 600 at ([world]24.698731890733544, 65.83613160699186, 303.1743852550903)
-[19:13:51] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
-[19:13:51] [Server thread/INFO]: dotunglamnd left the game
-[19:13:55] [Server thread/INFO]: Stopping the server
-[19:13:55] [Server thread/INFO]: Stopping server
-[19:13:55] [Server thread/INFO]: Saving players
-[19:13:56] [Server thread/INFO]: Saving worlds
-[19:13:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:13:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:13:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:14:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:14:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:14:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:14:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:14:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:14:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:14:01] [Server thread/INFO]: Flushing Chunk IO
-[19:14:01] [Server thread/INFO]: Closing Thread Pool
-[19:14:01] [Server thread/INFO]: Closing Server
+[00:00:07] [Async Chat Thread - #46/INFO]: <dotunglamnd> :v
+[00:01:09] [Async Chat Thread - #47/INFO]: <dotunglamnd> ???????????/////
+[00:01:22] [Async Chat Thread - #47/INFO]: <Cashuto> sao nether
+[00:01:31] [Async Chat Thread - #47/INFO]: <Cashuto> t quang ra 1 cai
+[00:01:41] [Async Chat Thread - #47/INFO]: <Cashuto> ccanh thang Luc
+[00:01:58] [Async Chat Thread - #47/INFO]: <dotunglamnd> :v
+[00:03:16] [Async Chat Thread - #48/INFO]: <dotunglamnd> ve deeeeeeeee
+[00:03:21] [Async Chat Thread - #48/INFO]: <dotunglamnd> co 3 buff r
+[00:03:31] [Async Chat Thread - #48/INFO]: <Cashuto> ve
+[00:04:00] [Async Chat Thread - #48/INFO]: <dotunglamnd> e dit me
+[00:04:16] [Async Chat Thread - #48/INFO]: <dotunglamnd> :v
+[00:04:22] [Async Chat Thread - #48/INFO]: <dotunglamnd> co thang nao dinh cung ko
+[00:04:31] [Async Chat Thread - #48/INFO]: <dotunglamnd> m bi dinh cung hay j v
+[00:04:47] [Async Chat Thread - #48/INFO]: <dotunglamnd> ban xuyen qua cong dia nguc dc kia`
+[00:05:37] [Async Chat Thread - #48/INFO]: <Cashuto> ve
+[00:06:14] [Async Chat Thread - #48/INFO]: <Cashuto> dung mo bbay
+[00:06:57] [Async Chat Thread - #48/INFO]: <dotunglamnd> t cung di 1 minh
+[00:08:12] [Async Chat Thread - #49/INFO]: <dotunglamnd> lam den di
+[00:08:15] [Async Chat Thread - #49/INFO]: <Cashuto> t danh
+[00:08:16] [Async Chat Thread - #49/INFO]: <dotunglamnd> hu do`
+[00:10:05] [Async Chat Thread - #50/INFO]: <Cashuto> ha
+[00:10:12] [Async Chat Thread - #50/INFO]: <Cashuto> ukn
+[00:11:49] [Async Chat Thread - #51/INFO]: <dotunglamnd> dau
+[00:11:52] [Async Chat Thread - #51/INFO]: <dotunglamnd> sao dau
+[00:15:07] [Async Chat Thread - #52/INFO]: <Cashuto> con
+[00:15:11] [Async Chat Thread - #52/INFO]: <Cashuto> trong ruong
+[00:15:38] [Async Chat Thread - #52/INFO]: <Cashuto> ruong phu phep bua t train de 2 cuon vao do ma
+[00:15:59] [Async Chat Thread - #52/INFO]: <dotunglamnd> t co cai cung phu phep nao dau ma bat lui`
+[00:16:34] [Server thread/INFO]: lucbeo lost connection: Disconnected
+[00:16:34] [Server thread/INFO]: lucbeo left the game
+[00:16:38] [User Authenticator #8/INFO]: UUID of player lucbeo is 171cd058-5c5c-39e5-bf43-40d35e5a2e47
+[00:16:38] [Server thread/INFO]: lucbeo joined the game
+[00:16:38] [Server thread/INFO]: lucbeo[/27.71.108.75:44713] logged in with entity id 58128 at ([world]-12.536869719108502, 68.0, 252.7523134507039)
+[00:17:58] [Async Chat Thread - #53/INFO]: <dotunglamnd> cho co omega3
+[00:19:37] [Async Chat Thread - #54/INFO]: <Cashuto> t dung nay gio mat dau
+[00:21:47] [Async Chat Thread - #55/INFO]: <dotunglamnd> bay cao nao` nhay cao nao
+[00:22:40] [Async Chat Thread - #55/INFO]: <Cashuto> ma no trau
+[00:22:42] [Async Chat Thread - #55/INFO]: <dotunglamnd> hong giap
+[00:23:27] [Server thread/WARN]: dotunglamnd moved wrongly!
+[00:26:15] [Async Chat Thread - #56/INFO]: <dotunglamnd> ha
+[00:26:37] [Async Chat Thread - #56/INFO]: <Cashuto> thang
+[00:26:41] [Async Chat Thread - #56/INFO]: <Cashuto> coi t ne
+[00:27:00] [Async Chat Thread - #56/INFO]: <Cashuto> dung day
+[00:27:28] [Async Chat Thread - #56/INFO]: <Cashuto> coi t ne
+[00:28:01] [Async Chat Thread - #56/INFO]: <Cashuto> ukn
+[00:28:05] [Async Chat Thread - #56/INFO]: <Cashuto> nhin da vl
+[00:29:01] [Async Chat Thread - #56/INFO]: <Cashuto> ko
+[00:29:06] [Async Chat Thread - #56/INFO]: <Cashuto> ukn
+[00:29:22] [Async Chat Thread - #56/INFO]: <dotunglamnd> may tml ban t nhu dien
+[00:29:29] [Async Chat Thread - #56/INFO]: <dotunglamnd> hong giap
+[00:29:32] [Async Chat Thread - #56/INFO]: <dotunglamnd> sua ngu nguoi`
+[00:30:24] [Async Chat Thread - #56/INFO]: <Cashuto> 4 phut thoi nha
+[00:30:30] [Async Chat Thread - #56/INFO]: <Cashuto> gan het roi
+[00:31:05] [Async Chat Thread - #56/INFO]: <Cashuto> choi thuoc
+[00:31:32] [Async Chat Thread - #56/INFO]: <Cashuto> hu giap
+[00:31:40] [Async Chat Thread - #56/INFO]: <Cashuto> het
+[00:31:54] [Async Chat Thread - #56/INFO]: <Cashuto> lo cua Thang la lo cuoi
+[00:32:12] [Server thread/INFO]: Villager EntityVillager['Cleric'/43487, uuid='7e6720dc-78a2-4d05-9480-993d8a20b321', l='ServerLevel[world]', x=9.44, y=70.06, z=248.04, cx=0, cz=15, tl=48398, v=true, d=false] died, message: 'Cleric was shot by Cashuto'
+[00:32:21] [Async Chat Thread - #56/INFO]: <No ? goay> T
+[00:33:06] [Async Chat Thread - #56/INFO]: <Cashuto> choi thuoc
+[00:33:18] [Async Chat Thread - #56/INFO]: <Cashuto> het roi
+[00:33:53] [Async Chat Thread - #56/INFO]: <dotunglamnd> sua giap
+[00:34:02] [Async Chat Thread - #56/INFO]: <dotunglamnd> tui m ban muon nat luon
+[00:34:03] [Async Chat Thread - #56/INFO]: <Cashuto> dooi t ti Luc
+[00:35:17] [Async Chat Thread - #57/INFO]: <Cashuto> Luc voi Thang lai iday
+[00:35:33] [Async Chat Thread - #57/INFO]: <Cashuto> Luc
+[00:35:57] [Async Chat Thread - #57/INFO]: <Cashuto> lai day dung chum lai
+[00:36:25] [Async Chat Thread - #57/INFO]: <Cashuto> so m thiet
+[00:38:18] [Async Chat Thread - #58/INFO]: <Cashuto> dc
+[00:38:36] [Async Chat Thread - #58/INFO]: <dotunglamnd> som v
+[00:38:41] [Async Chat Thread - #58/INFO]: <Cashuto> dua t teamview
+[00:38:48] [Server thread/INFO]: No ? goay lost connection: Disconnected
+[00:38:49] [Server thread/INFO]: No ? goay left the game
+[00:39:01] [Async Chat Thread - #58/INFO]: <Cashuto> sao t thay dinh ba tren nay
+[00:39:36] [Server thread/INFO]: lucbeo fell from a high place
+[00:39:43] [Async Chat Thread - #58/INFO]: <Cashuto> het thuoc me roi
+[00:43:12] [Async Chat Thread - #59/INFO]: <Cashuto> trong ruong kinh ay
+[00:44:16] [Async Chat Thread - #60/INFO]: <Cashuto> choi thuoc roi cham nua ko
+[00:45:21] [Async Chat Thread - #61/INFO]: <Cashuto> bo vao de
+[00:45:22] [Async Chat Thread - #61/INFO]: <dotunglamnd> cung sua bang cung
+[00:45:55] [Async Chat Thread - #61/INFO]: <dotunglamnd> thoi t nghi nha
+[00:46:00] [Async Chat Thread - #61/INFO]: <Cashuto> ukn
+[00:47:35] [Async Chat Thread - #62/INFO]: <Cashuto> can da phat sang nua ko
+[00:47:48] [Async Chat Thread - #62/INFO]: <dotunglamnd> lay di ve trang tri
+[00:48:50] [Server thread/INFO]: dotunglamnd lost connection: Disconnected
+[00:48:50] [Server thread/INFO]: dotunglamnd left the game
+[00:56:14] [Async Chat Thread - #63/INFO]: <Cashuto> dau bung vl
+[00:56:21] [Async Chat Thread - #63/INFO]: <Cashuto> cuoi ia
+[00:57:00] [Async Chat Thread - #63/INFO]: <Cashuto> cuoi ia
+[00:58:28] [Async Chat Thread - #64/INFO]: <Cashuto> dau bung vl
+[00:59:12] [Async Chat Thread - #64/INFO]: <Cashuto> cuoi ia
+[00:59:25] [Async Chat Thread - #64/INFO]: <Cashuto> mai t vo lam i choc voi Thang
+[00:59:39] [Async Chat Thread - #64/INFO]: <Cashuto> no ko biet dau
+[00:59:52] [Async Chat Thread - #64/INFO]: <Cashuto> mai coi giap ra
+[01:00:06] [Async Chat Thread - #64/INFO]: <Cashuto> ukn
+[01:00:08] [Server thread/INFO]: lucbeo lost connection: Disconnected
+[01:00:08] [Server thread/INFO]: lucbeo left the game
+[01:09:42] [Server thread/INFO]: Villager EntityVillager['Librarian'/678, uuid='1daba138-4dcb-4c8a-aafc-5a668a46c940', l='ServerLevel[world]', x=82.71, y=64.84, z=321.28, cx=5, cz=20, tl=679053, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:11:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/673, uuid='5bdd7157-2942-4f24-9e2f-889e9991c2fe', l='ServerLevel[world]', x=83.51, y=64.84, z=321.32, cx=5, cz=20, tl=4360898, v=true, d=false] died, message: 'Librarian was shot by Cashuto'
+[01:11:54] [Server thread/INFO]: Villager EntityVillager['Villager'/624, uuid='15c7b7b2-c3f8-40e0-a314-d4b1adadade5', l='ServerLevel[world]', x=83.31, y=64.84, z=321.31, cx=5, cz=20, tl=1084468, v=true, d=false] died, message: 'Villager was shot by Cashuto'
+[01:12:11] [Server thread/INFO]: Villager EntityVillager['Librarian'/623, uuid='edbb35a8-2818-458b-946c-08e06401a9c6', l='ServerLevel[world]', x=83.14, y=64.94, z=315.63, cx=5, cz=19, tl=888038, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:12:19] [Server thread/INFO]: Villager EntityVillager['Librarian'/670, uuid='44a4812a-ad28-451c-8774-0d90501f6b33', l='ServerLevel[world]', x=79.68, y=66.88, z=316.84, cx=4, cz=19, tl=951041, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:13:22] [Server thread/INFO]: Villager EntityVillager['Librarian'/634, uuid='d5bf0a55-c901-4f47-825b-e5e27a9d26f5', l='ServerLevel[world]', x=67.47, y=65.88, z=330.49, cx=4, cz=20, tl=2413902, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:13:32] [Server thread/INFO]: Villager EntityVillager['Librarian'/633, uuid='1c04f621-7af6-4bd6-b1d4-675ba514a6d0', l='ServerLevel[world]', x=64.88, y=65.00, z=332.12, cx=4, cz=20, tl=6913935, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:14:31] [Server thread/INFO]: Villager EntityVillager['Librarian'/647, uuid='40ca31a1-8573-4c97-8193-899c439f7d41', l='ServerLevel[world]', x=69.24, y=66.00, z=330.19, cx=4, cz=20, tl=5638078, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:14:49] [Server thread/INFO]: Villager EntityVillager['Librarian'/688, uuid='495e2a15-9ab3-4273-8a65-a0f298fd954c', l='ServerLevel[world]', x=65.74, y=65.00, z=330.88, cx=4, cz=20, tl=5960989, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:15:46] [Server thread/INFO]: Villager EntityVillager['Librarian'/626, uuid='efe5c9a8-ebd8-4f27-ba0c-1c6035aa004c', l='ServerLevel[world]', x=62.90, y=65.56, z=335.39, cx=3, cz=20, tl=6475980, v=true, d=false] died, message: 'Librarian was slain by Cashuto'
+[01:17:32] [Server thread/INFO]: Cashuto was slain by Iron Golem
+[01:25:08] [Server thread/INFO]: Villager EntityVillager['Villager'/31014, uuid='80de9e7e-0806-45ef-a757-cbb8c2b916a3', l='ServerLevel[world]', x=44.92, y=63.00, z=251.79, cx=2, cz=15, tl=176592, v=true, d=false] died, message: 'Villager was shot by Cashuto'
+[01:33:51] [Server thread/INFO]: Villager EntityVillager['Librarian'/630, uuid='8ef520fa-4dc5-4de4-bd9b-bf96de267b43', l='ServerLevel[world]', x=66.70, y=65.64, z=334.14, cx=4, cz=20, tl=6040713, v=true, d=false] died, message: 'Librarian was slain by Zombie'
+[01:33:55] [Server thread/INFO]: Villager EntityVillager['Librarian'/643, uuid='67dbde6d-72e7-4674-895d-56cee1644397', l='ServerLevel[world]', x=62.75, y=65.41, z=331.46, cx=3, cz=20, tl=3279217, v=true, d=false] died, message: 'Librarian was slain by Zombie Villager'
+[01:34:32] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/648, uuid='22919c47-1fd1-424f-abd1-456560960e71', l='ServerLevel[world]', x=68.06, y=65.77, z=330.42, cx=4, cz=20, tl=3966199, v=true, d=false] died, message: 'Toolsmith was slain by Zombie Villager'
+[01:36:19] [Server thread/INFO]: Villager EntityVillager['Farmer'/655, uuid='b6a8fcba-421f-4c35-80a6-5d61b8860fb9', l='ServerLevel[world]', x=61.19, y=65.13, z=333.69, cx=3, cz=20, tl=13717616, v=true, d=false] died, message: 'Farmer was slain by Zombie'
+[02:29:08] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[02:29:08] [Server thread/INFO]: Cashuto left the game
+[02:31:23] [User Authenticator #9/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[02:31:23] [Server thread/INFO]: Cashuto joined the game
+[02:31:23] [Server thread/INFO]: Cashuto[/14.226.247.118:28179] logged in with entity id 86265 at ([world_nether]-10.726037261776764, 71.0, 14.350905294659242)
+[03:06:40] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-147 (MC: 1.16.2) ---
+[03:06:40] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[03:06:40] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:06:40] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[03:06:43] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:06:43] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[03:06:44] [Paper Watchdog Thread/ERROR]: 	PID: 21 | Suspended: false | Native: false | State: RUNNABLE
+[03:06:47] [Paper Watchdog Thread/ERROR]: 	Stack:
+[03:06:54] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.AxisAlignedBB.b(AxisAlignedBB.java:50)
+[03:07:04] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.VoxelShape.a(VoxelShape.java:158)
+[03:07:12] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.VoxelShape.a(VoxelShape.java:145)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.VoxelShapes.a(VoxelShapes.java:180)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.Entity.a(Entity.java:877)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.Entity.a(Entity.java:865)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.Entity.g(Entity.java:827)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.Entity.move(Entity.java:622)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityLiving.a(EntityLiving.java:2355)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityLiving.g(EntityLiving.java:2314)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityLiving.movementTick(EntityLiving.java:2781)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityInsentient.movementTick(EntityInsentient.java:543)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityAgeable.movementTick(EntityAgeable.java:143)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2466)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityInsentient.tick(EntityInsentient.java:306)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.EntityVillager.tick(EntityVillager.java:211)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.WorldServer.entityJoinedWorld(WorldServer.java:834)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.WorldServer$$Lambda$3724/376249150.accept(Unknown Source)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.World.a(World.java:892)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.WorldServer.doTick(WorldServer.java:526)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1358)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:375)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3208/587650668.run(Unknown Source)
+[03:07:20] [Paper Watchdog Thread/ERROR]: 		java.lang.Thread.run(Unknown Source)
+[03:07:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:07:20] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[03:07:20] [Paper Watchdog Thread/ERROR]: ------------------------------
+[03:07:20] [Server thread/WARN]: Entity threw exception at world:25.61595486761055,66.0,384.0446215559472
+[03:07:20] [Server thread/WARN]: java.lang.OutOfMemoryError: GC overhead limit exceeded
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.VoxelShapes.a(VoxelShapes.java:70)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.VoxelShapes.of(VoxelShapes.java:38)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.VoxelShapeSpliterator.a(VoxelShapeSpliterator.java:78)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.VoxelShapeSpliterator.tryAdvance(VoxelShapeSpliterator.java:49)
+[03:07:20] [Server thread/WARN]: 	at java.util.stream.Streams$ConcatSpliterator.tryAdvance(Unknown Source)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.StreamAccumulator$1.tryAdvance(SourceFile:31)
+[03:07:20] [Server thread/WARN]: 	at java.util.Spliterators$1Adapter.hasNext(Unknown Source)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.VoxelShapes.a(VoxelShapes.java:180)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.Entity.a(Entity.java:877)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.Entity.a(Entity.java:865)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.Entity.g(Entity.java:827)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.Entity.move(Entity.java:622)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityLiving.a(EntityLiving.java:2355)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityLiving.g(EntityLiving.java:2314)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityLiving.movementTick(EntityLiving.java:2781)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityInsentient.movementTick(EntityInsentient.java:543)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityAgeable.movementTick(EntityAgeable.java:143)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityLiving.tick(EntityLiving.java:2466)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityInsentient.tick(EntityInsentient.java:306)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.EntityVillager.tick(EntityVillager.java:211)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.WorldServer.entityJoinedWorld(WorldServer.java:834)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.WorldServer$$Lambda$3724/376249150.accept(Unknown Source)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.World.a(World.java:892)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.WorldServer.doTick(WorldServer.java:526)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.b(MinecraftServer.java:1358)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.DedicatedServer.b(DedicatedServer.java:375)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.a(MinecraftServer.java:1211)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.w(MinecraftServer.java:999)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[03:07:20] [Server thread/WARN]: 	at net.minecraft.server.v1_16_R2.MinecraftServer$$Lambda$3208/587650668.run(Unknown Source)
+[03:07:20] [Server thread/WARN]: 	at java.lang.Thread.run(Unknown Source)
+[03:07:20] [User Authenticator #10/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[03:07:20] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[03:07:20] [Server thread/INFO]: Cashuto left the game
+[03:07:20] [Server thread/INFO]: com.mojang.authlib.GameProfile@1dc33e43[id=32837085-0880-37e3-8cc9-66759e5b5536,name=Cashuto,properties={},legacy=false] (/14.226.247.118:28235) lost connection: Disconnected
+[03:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 51673ms or 1033 ticks behind
+[03:08:21] [User Authenticator #11/INFO]: UUID of player Cashuto is 32837085-0880-37e3-8cc9-66759e5b5536
+[03:08:22] [Server thread/INFO]: Cashuto joined the game
+[03:08:22] [Server thread/INFO]: Cashuto[/14.226.247.118:28245] logged in with entity id 91281 at ([world]20.656961728124912, 64.0, 259.5)
+[03:13:23] [Server thread/INFO]: Cashuto lost connection: Disconnected
+[03:13:23] [Server thread/INFO]: Cashuto left the game
+[03:13:29] [Server thread/INFO]: Stopping server
+[03:13:29] [Server thread/INFO]: Saving players
+[03:13:29] [Server thread/INFO]: Saving worlds
+[03:13:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:13:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:13:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:13:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:13:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:13:31] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:13:31] [Server thread/INFO]: Flushing Chunk IO
+[03:13:31] [Server thread/INFO]: Closing Thread Pool
+[03:13:31] [Server thread/INFO]: Closing Server
